@@ -50,7 +50,7 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Bisa input 3 api key Google Gemini
 *   Bisa full area catatan saja dan juga full area key word dan ringkasan
 *   Tampilkan/sembunyikan frame kiri
-*   Full nyaman jalan di linux dan beberapa pengurangan kenyamanan jika dijalankan di windows.
+*   Full nyaman jalan di distribusi linux
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 ## 🌟 Fitur AI CnoteExplorer
