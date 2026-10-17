@@ -30,7 +30,7 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 
 * "Efek" "Isolasi" "Visual": Ketika tampilan utama disembunyikan dan hanya "kata kunci" ("Cues") saja yang muncul dengan warna penanda khusus, mata langsung menangkap jangkar ingatan tersebut tanpa terganggu oleh detail teks lain.
 
-* "Melawan" "Ilusi" "Kompetensi": Banyak pelajar merasa sudah paham hanya karena selesai membaca teks. Dengan menyembunyikan jawaban dan memaksa otak memikirkan definisinya sendiri, untuk membangun jalur saraf ingatan jangka panjang (long-term memory) yang sangat kuat.
+* "Melawan" "Ilusi" "Kompetensi": Banyak pembelajar merasa sudah paham hanya karena selesai membaca teks. Dengan menyembunyikan jawaban dan memaksa otak memikirkan definisinya sendiri, untuk membangun jalur saraf ingatan jangka panjang (long-term memory) yang sangat kuat.
 
 * "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database.
 
@@ -51,6 +51,10 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Bisa full area catatan saja dan juga full area key word dan ringkasan
 *   Tampilkan/sembunyikan frame kiri
 *   Full nyaman jalan di distribusi linux
+*   Import isi direktori file-file py,md,txt,sh ke dalam CnoteExporer
+*   Game Search Find 9 Nouns
+*   ASCII Drawing untuk sketsa desain UI/GUI dan yang lainnya
+*   Simulasi kuis untuk ujian tes mandiri pilihan ganda untuk persiapan ikut Tes CPNS, DevOps, CCNA dan lain-lain
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 ## 🌟 Fitur AI CnoteExplorer
@@ -73,14 +77,14 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik "On Progress" sebaliknya jika selesai dipindah ke sub topik "Fix"
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA, DevOps Foundation (dari DevOps Institute), Docker Certified Associate (DCA), atau KCNA (Kubernetes and Cloud-Native Associate) dan lain - lain.
-*   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal dengan format yang telah ditentukan di catatan utama
+*   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal di catatan utama
 
 
 ## 🌟 Format Soal Pilihan Ganda
 
 Formatnya seperti dibawah ini untuk "jawaban". Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda pada pilihan ganda yang kamu pilih dengan 1 klik kiri mouse. Baca soal seperti biasa pilih salah satu pilihan ganda. Untuk langsung mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Kuis -> "Periksa Jawaban Pengguna". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
 
-Bayangkan kamu sebagai seorang yang akan menghadapi tes misal CPNS, CCNA dan lain - lain bahkan pengajar bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Pilih pilihan ganda a atau e atau yang lainnya dengan "1 klik kiri mouse". Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu sebelum kamu menghadapi tes yang sebenarnya. Kamu bisa melakukan simulasi soal - soal pilihan ganda sesuai topik yang dibuat. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Kuis -> "Acak Kuis".
+Bayangkan kamu sebagai seorang yang akan mengikuti tes misal CPNS, CCNA dan lain - lain bahkan pengajar bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Pilih pilihan ganda a atau e atau yang lainnya dengan "1 klik kiri mouse". Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu sebelum kamu menghadapi tes yang sebenarnya. Kamu bisa melakukan simulasi soal - soal pilihan ganda sesuai topik yang dibuat. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Kuis -> "Acak Kuis".
 
 Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4) atau lihat saja folder video_and_images disana ada file-file mp4.
 
@@ -93,7 +97,7 @@ C. 10 pekerja
 D. 12 pekerja
 E. 16 pekerja
 ## jawaban
-a
+A
 ```
 ## 🚀 Cara Jalankan
 
@@ -107,6 +111,12 @@ a
   <img src="video_and_images/add_page.png" width="32%" alt="Gambar 1" />
   <img src="video_and_images/move_to_subtopic.png" width="32%" alt="Gambar 2" />
   <img src="video_and_images/window_utama.png" width="32%" alt="Gambar 3" />
+</p>
+
+<p align="center">
+  <img src="video_and_images/quiz_simulation.png" width="32%" alt="Gambar 1" />
+  <img src="video_and_images/words_search_game.png" width="32%" alt="Gambar 2" />
+  <img src="video_and_images/ascii_drawing.png" width="32%" alt="Gambar 3" />
 </p>
 
 
