@@ -1,4 +1,4 @@
-Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall, telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "YescNodex".
+Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall, telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "CnoteExplorer".
 
 ------------------------------
 
@@ -35,7 +35,7 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 * "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database.
 
 ## 🚀 Sebuah Karya Alat Belajar
-Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" yang berubah nama menjadi "CnoteExplorer" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
+Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "CnoteExplorer" yang berubah nama menjadi "CnoteExplorer" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
 ## 🔑 Fitur - Fitur Selain Artificial Intelligence
 *   Eksport 1 topik ke MD
@@ -101,7 +101,7 @@ A
 ```
 ## 🚀 Cara Jalankan
 
-*   you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/yescnodex/releases/tag/cnoteexplorer)
+*   you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/cnoteexplorer/releases/tag/cnoteexplorer)
 *   install requirements librari aplikasinya
 *   pastikan jalur lokasi virtual environment pada venvPath di /opt/cnoteexplorer/hola.sh dengan benar
 *   jalankan cne di terminal cli (linux atau WSL Windows)
