@@ -26,6 +26,7 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 ```
 
 ------------------------------
+
 ## 💡 Mengapa Sistem "Kata Kunci Berwarna" Sangat Efektif?
 
 * "Efek" "Isolasi" "Visual": Ketika tampilan utama disembunyikan dan hanya "kata kunci" ("Cues") saja yang muncul dengan warna penanda khusus, mata langsung menangkap jangkar ingatan tersebut tanpa terganggu oleh detail teks lain.
@@ -84,13 +85,14 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 
 ## 🌟 Format Soal Pilihan Ganda
 
-Formatnya seperti dibawah ini untuk "jawaban". Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda pada pilihan ganda yang kamu pilih dengan 1 klik kiri mouse. Baca soal seperti biasa pilih salah satu pilihan ganda. Untuk langsung mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Kuis -> "Periksa Jawaban Pengguna". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
+Formatnya seperti dibawah ini untuk "jawaban" dan soalnya. Kamu bisa menyembunyikan jawaban dan penjelasan dengan klik kanan lalu pilih "Fold All" sedangkan sebaliknya pilih "UnFold All".Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda pada pilihan ganda yang kamu pilih dengan 1 klik kiri mouse. Baca soal seperti biasa pilih salah satu pilihan ganda. Untuk langsung mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Kuis -> "Periksa Jawaban Pengguna". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
 
-Bayangkan kamu sebagai seorang yang akan mengikuti tes misal CPNS, CCNA dan lain - lain bahkan pengajar bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Pilih pilihan ganda a atau e atau yang lainnya dengan "1 klik kiri mouse". Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu sebelum kamu menghadapi tes yang sebenarnya. Kamu bisa melakukan simulasi soal - soal pilihan ganda sesuai topik yang dibuat. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Kuis -> "Acak Kuis".
+Bayangkan kamu sebagai seorang yang akan mengikuti tes misal CPNS, CCNA dan lain - lain bahkan pengajar bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Pilih pilihan ganda a atau e atau yang lainnya dengan "1 klik kiri mouse". Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu sebelum kamu menghadapi tes yang sebenarnya. Kamu bisa melakukan simulasi soal - soal pilihan ganda sesuai topik yang dibuat bisa oleh diri sendiri, orang lain maupun bantuan AI. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Kuis -> "Acak Kuis".
 
 Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4) atau lihat saja folder video_and_images disana ada file-file mp4.
 
 ```text
+
 ## 15. Kisi-kisi: Perbandingan Senilai / Berbalik Nilai
 Sebuah proyek pembangunan jembatan ditargetkan selesai dalam waktu 60 hari oleh 24 pekerja. Setelah proyek berjalan selama 15 hari, pekerjaan dihentikan selama 9 hari karena kendala cuaca buruk. Agar proyek dapat selesai tepat waktu sesuai target awal, berapakah jumlah pekerja tambahan yang harus dikontrak?
 A. 6 pekerja
@@ -100,6 +102,9 @@ D. 12 pekerja
 E. 16 pekerja
 ## jawaban
 A
+## penjelasan
+Pekerja Tambahan = (Pekerja Awal x Hari Libur) x Sisa Hari Akhir, di mana jika dijabarkan dengan angka dari soal menjadi ((24 x 9) x 36). Namun, karena esensi matematika dari perbandingan berbalik nilai untuk mencari jumlah pekerja ini pada tahap akhir wajib melibatkan pembagian (seperti mencari nilai dari (216 : 36), hasil akhir dari pengerjaan struktur tersebut tetap akan menghasilkan 6 pekerja sebagai tenaga tambahan yang dibutuhkan. Jawaban yang benar A.
+
 ```
 ## 🚀 Cara Jalankan
 
@@ -125,3 +130,5 @@ A
 ![Demo Aplikasi CnoteExplorer](video_and_images/demo_ai_gemini.mp4)
 
 ![Contoh hasil PDF](Welcome_to_CnoteExplorer_2_compiled.html.pdf)
+
+
