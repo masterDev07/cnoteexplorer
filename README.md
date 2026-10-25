@@ -55,7 +55,9 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Game Search Find 9 Nouns
 *   ASCII Drawing untuk sketsa desain UI/GUI dan yang lainnya
 *   Simulasi kuis untuk ujian tes mandiri pilihan ganda untuk persiapan ikut Tes CPNS, DevOps, CCNA dan lain-lain
+*   Ada pengulangan simulasi kuis untuk soal yang salah pilihan ganda ataupun soal - soal yang belum sempat dikerjakan
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
+
 
 ## 🌟 Fitur AI CnoteExplorer
 
@@ -103,8 +105,8 @@ A
 
 *   you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/cnoteexplorer/releases/tag/cnoteexplorer)
 *   install requirements librari aplikasinya
-*   pastikan jalur lokasi virtual environment pada venvPath di /opt/cnoteexplorer/hola.sh dengan benar
-*   jalankan cne di terminal cli (linux atau WSL Windows)
+*   pastikan jalur lokasi virtual environment Python pada venvPath di /opt/cnoteexplorer/hola.sh dengan benar
+*   jalankan cne di terminal cli (distribusi linux atau WSL Windows)
 
 
 <p align="center">
@@ -114,9 +116,9 @@ A
 </p>
 
 <p align="center">
-  <img src="video_and_images/quiz_simulation.png" width="32%" alt="Gambar 1" />
-  <img src="video_and_images/words_search_game.png" width="32%" alt="Gambar 2" />
-  <img src="video_and_images/ascii_drawing.png" width="32%" alt="Gambar 3" />
+  <img src="video_and_images/quiz_simulation.png" width="32%" alt="Gambar 4" />
+  <img src="video_and_images/words_search_game.png" width="32%" alt="Gambar 5" />
+  <img src="video_and_images/ascii_drawing.png" width="32%" alt="Gambar 6" />
 </p>
 
 
