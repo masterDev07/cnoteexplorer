@@ -60,6 +60,28 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 
+## 🌟 Isi Dokumentasi Teknis
+Dokumentasi teknis berisi bab-bab sebagai berikut:
+
+```text
+
+01-🚀_PENGANTAR_&_PRINSIP_DASAR
+02-📂_ARSITEKTUR_FILE_&_POLA_MVC
+03-💾_SPESIFIKASI_MODEL_DATA_STORAGE
+04-🎨_TATA_LETAK_ANTARMUKA_KOMPONEN_GUI
+05-⌨️_LOGIKA_KONTROL_&_PINTASAN_KEYBOARD
+06-🛡️_FITUR_-_FITUR
+07-🛡️_STRATEGI_KEAMANAN_RETENSI_DATA
+08-📦_MANAJEMEN_ISOLASI_LINGKUNGAN_KERJA
+09-📦_CARA_MENJALANKAN_APLIKASI
+10-🛠️_PANDUAN_PEMAKETAN_DEB
+    *  Bash
+    *  Ansible
+11-🛠️_PANDUAN_SOLUSI_MASALAH_TEKNIS
+12-📦_ARSITEKTUR_JARINGAN_LAN
+
+```
+
 ## 🌟 Fitur AI CnoteExplorer
 
 Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur unggulan berikut:
