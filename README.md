@@ -81,6 +81,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, tes profesional misal CCNA, DevOps Foundation (dari DevOps Institute), Docker Certified Associate (DCA), atau KCNA (Kubernetes and Cloud-Native Associate) dan lain - lain.
 *   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal di catatan utama
+*   Bisa digunakan dalam 1 LAN untuk kirim hasil simulasi exam ke komputer Administrator
 
 
 ## 🌟 Format Soal Pilihan Ganda
@@ -106,6 +107,38 @@ A
 Pekerja Tambahan = (Pekerja Awal x Hari Libur) x Sisa Hari Akhir, di mana jika dijabarkan dengan angka dari soal menjadi ((24 x 9) x 36). Namun, karena esensi matematika dari perbandingan berbalik nilai untuk mencari jumlah pekerja ini pada tahap akhir wajib melibatkan pembagian (seperti mencari nilai dari (216 : 36), hasil akhir dari pengerjaan struktur tersebut tetap akan menghasilkan 6 pekerja sebagai tenaga tambahan yang dibutuhkan. Jawaban yang benar A.
 
 ```
+
+## 🌟 Arsitektur Jaringan LAN
+Dibawah ini adalah arsitektur jaringan LAN yang manggambarkan CnoteExplorer bisa digunakan untuk kirim data hasil ujian ke komputer server ujian.
+
+====================================================================
+      STRUKTUR JARINGAN LAN RUANG UJIAN (SECURE ENVIRONMENT)
+====================================================================
+
+    [💻 Komputer Siswa 01] (IP: 192.168.1.11)
+            │  🔒 (Kirim via SSL/TLS Context)
+            ▼
+    [💻 Komputer Siswa 02] (IP: 192.168.1.12)  ──┐
+            │  🔒                                │
+            ▼                                    │
+    [💻 Komputer Siswa 03] (IP: 192.168.1.13)  ──┼───► [🔌 SWITCH / HUB LAN]
+            │  🔒                                │            │
+            ▼                                    │            │ (Kabel UTP / WiFi LAN)                            │            │
+    [💻 Komputer Siswa NN] (IP: 192.168.1.XX)  ──┘            │
+                                                              │
+   ┌──────────────────────────────────────────────────────────┘
+   │
+   ▼
+[🖥️ SECURE EXAM SERVER (ADMIN)] (IP: 192.168.1.5 | Port: 9999)
+   │
+   ├── 📁 independent/
+   │     └── 📁 server_data/  (Lokasi Dir Sejajar)
+   │           ├── 🔒 server.pem [Memvalidasi Handshake & Enkripsi Data]
+   │           └── 📝 hasil_ujian_siswa.txt [Menyimpan Log & Payload Jawaban]
+   │
+   └── 🔲 [ ModernServerGUI ] (CustomTkinter Window)
+
+
 ## 🚀 Cara Jalankan
 
 *   you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/cnoteexplorer/releases/tag/cnoteexplorer)
