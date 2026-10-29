@@ -111,6 +111,8 @@ Pekerja Tambahan = (Pekerja Awal x Hari Libur) x Sisa Hari Akhir, di mana jika d
 ## 🌟 Arsitektur Jaringan LAN
 Dibawah ini adalah arsitektur jaringan LAN yang manggambarkan CnoteExplorer bisa digunakan untuk kirim data hasil ujian ke komputer server ujian.
 
+```text
+
 ====================================================================
       STRUKTUR JARINGAN LAN RUANG UJIAN (SECURE ENVIRONMENT)
 ====================================================================
@@ -138,6 +140,7 @@ Dibawah ini adalah arsitektur jaringan LAN yang manggambarkan CnoteExplorer bisa
    │
    └── 🔲 [ ModernServerGUI ] (CustomTkinter Window)
 
+```
 
 ## 🚀 Cara Jalankan
 
