@@ -65,20 +65,20 @@ Dokumentasi teknis berisi bab-bab sebagai berikut:
 
 ```text
 
-01-🚀_PENGANTAR_&_PRINSIP_DASAR
-02-📂_ARSITEKTUR_FILE_&_POLA_MVC
-03-💾_SPESIFIKASI_MODEL_DATA_STORAGE
-04-🎨_TATA_LETAK_ANTARMUKA_KOMPONEN_GUI
-05-⌨️_LOGIKA_KONTROL_&_PINTASAN_KEYBOARD
-06-🛡️_FITUR_-_FITUR
-07-🛡️_STRATEGI_KEAMANAN_RETENSI_DATA
-08-📦_MANAJEMEN_ISOLASI_LINGKUNGAN_KERJA
-09-📦_CARA_MENJALANKAN_APLIKASI
-10-🛠️_PANDUAN_PEMAKETAN_DEB
+01. 🚀 PENGANTAR & PRINSIP DASAR
+02. 📂 ARSITEKTUR FILE & POLA MVC
+03. 💾 SPESIFIKASI MODEL DATA STORAGE
+04. 🎨 TATA LETAK ANTARMUKA KOMPONEN GUI
+05. ⌨️ LOGIKA KONTROL & PINTASAN KEYBOARD
+06. 🛡️ FITUR   FITUR
+07. 🛡️ STRATEGI KEAMANAN RETENSI DATA
+08. 📦 MANAJEMEN ISOLASI LINGKUNGAN KERJA
+09. 📦 CARA MENJALANKAN APLIKASI
+10. 🛠️ PANDUAN PEMAKETAN DEB
     *  Bash
     *  Ansible
-11-🛠️_PANDUAN_SOLUSI_MASALAH_TEKNIS
-12-📦_ARSITEKTUR_JARINGAN_LAN
+11. 🛠️ PANDUAN SOLUSI MASALAH TEKNIS
+12. 📦 ARSITEKTUR JARINGAN LAN
 
 ```
 
@@ -103,7 +103,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, tes profesional misal CCNA, DevOps Foundation (dari DevOps Institute), Docker Certified Associate (DCA), atau KCNA (Kubernetes and Cloud-Native Associate) dan lain - lain.
 *   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal di catatan utama
-*   Bisa digunakan dalam 1 LAN untuk kirim hasil simulasi exam ke komputer Administrator
+*   Bisa digunakan dalam 1 LAN untuk kirim hasil simulasi exam ke komputer Administrator (Kuis - Rekap Ujian Ke Administrator). Administrator mengaktifkan server ssl terlebih dahulu di Tools - Secure Exam Server untuk membuka port 9999.
 
 
 ## 🌟 Format Soal Pilihan Ganda
