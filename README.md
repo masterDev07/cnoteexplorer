@@ -103,7 +103,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik "On Progress" sebaliknya jika selesai dipindah ke sub topik "Fix"
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, tes profesional misal CCNA, DevOps Foundation (dari DevOps Institute), Docker Certified Associate (DCA), atau KCNA (Kubernetes and Cloud-Native Associate) dan lain - lain.
-*   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal di catatan utama
+*   Untuk mengacak dan bisa juga mengurutkan pilihan ganda dan jawaban beserta nomor soal di catatan utama
 *   Bisa digunakan dalam 1 LAN untuk kirim hasil simulasi exam ke komputer Administrator (Kuis - Rekap Ujian Ke Administrator). Administrator mengaktifkan server ssl terlebih dahulu di Tools - Secure Exam Server untuk membuka port 9999.
 
 
