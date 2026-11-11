@@ -52,7 +52,7 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Bisa full area catatan saja dan juga full area key word dan ringkasan
 *   Tampilkan/sembunyikan frame kiri
 *   Full nyaman jalan di distribusi linux
-*   Import isi direktori file-file py,md,txt,sh ke dalam CnoteExporer
+*   Import isi direktori file-file py,md,txt,sh ke dalam CnoteExplorer
 *   Game Search Find 9 Nouns
 *   ASCII Drawing untuk sketsa desain UI/GUI dan yang lainnya
 *   Simulasi kuis untuk ujian tes mandiri pilihan ganda untuk persiapan ikut Tes CPNS, DevOps, CCNA dan lain-lain
