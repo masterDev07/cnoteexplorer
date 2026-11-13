@@ -58,6 +58,7 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Simulasi kuis untuk ujian tes mandiri pilihan ganda untuk persiapan ikut Tes CPNS, DevOps, CCNA dan lain-lain
 *   Ada pengulangan simulasi kuis untuk soal yang salah pilihan ganda ataupun soal - soal yang belum sempat dikerjakan
 *   Ada terintegrasi teknologi ucapan di catatan utama untuk mengucapkan kata atau kalimat yang disorot untuk dipelajari fonetik bahasa inggris.
+*   Ada integrasi Eksekutor Kode Python
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 
